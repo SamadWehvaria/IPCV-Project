@@ -6,12 +6,12 @@ accelerate==0.34.2
 openai-whisper
 opencv-python-headless
 Pillow
-numpy==1.26.4
+numpy>=2.0.0
 torch
 torchvision
 moviepy
 scikit-learn
 librosa
-mediapipe==0.10.14
-tensorflow==2.16.1
-protobuf==4.25.3
+mediapipe>=0.10.30
+pyspellchecker
+protobuf>=3.20.0
